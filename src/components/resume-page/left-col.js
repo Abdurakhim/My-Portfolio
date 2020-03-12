@@ -5,21 +5,20 @@ class LeftCol extends Component {
     return (
       <div style={{ textAlign: "center" }}>
         <img
-          src="https://firebasestorage.googleapis.com/v0/b/be-informed-nz.appspot.com/o/images%2Favatar.png?alt=media&token=c8f8f189-2e7f-4bd0-8269-a09b17e50196"
+          src="https://firebasestorage.googleapis.com/v0/b/be-informed-nz.appspot.com/o/images%2Fphoto5003628988966479963.png?alt=media&token=d46c578a-33da-42ed-966d-8a09b96c9b45"
           alt="avatar"
           style={{ height: "200px" }}
         />
 
-        <h2 style={{ paddingTop: "1em" }}>Abdurakhim Ruziev</h2>
+        <h2 style={{ paddingTop: "1em" }}>Abdul Ruziev</h2>
         <h4 style={{ color: "grey" }}>Junior Developer</h4>
         <hr style={{ borderTop: "3px solid #1a3af2", width: "100%" }} />
         <p>
-          My name is Abdurakhim Ruziev. I have recently graduated from EDENZ
-          Collegese in Software Development. I am highly motivated and
-          goal-oriented who is very enthusiastic to learn and develop
-          programming skills and apply to the real life. My experience working
-          in a group will help me to adapt and learn new environment very fast.
-          I am happy to develop my skills in software / web development
+          I am a full-stack developer with essential programming skills in
+          modern web development (ReactJs, NodeJs) and have the ability to learn
+          new skills quickly and implement in the application. I am a good team
+          player and I can be a good fit on your team if you are looking for an
+          enthusiastic junior developer.
         </p>
         <hr style={{ borderTop: "3px solid #1a3af2", width: "100%" }} />
         <h5>Address</h5>

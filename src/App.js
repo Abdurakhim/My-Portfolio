@@ -29,7 +29,7 @@ function App() {
               className="header-color"
               title={
                 <div className="homepage-title">
-                  <Link to="/">Abdurakhim's Porfolio</Link>
+                  <Link to="/">Abdul's Porfolio</Link>
                 </div>
               }
               scroll
@@ -42,7 +42,7 @@ function App() {
             <Drawer
               title={
                 <div className="homepage-title-1">
-                  <Link to="/">Abdurakhim's Porfolio</Link>
+                  <Link to="/">Abdul's Porfolio</Link>
                 </div>
               }
             >

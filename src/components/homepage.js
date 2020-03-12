@@ -8,7 +8,7 @@ class Home extends Component {
         <Grid className="home-grid">
           <Cell col={12}>
             <img
-              src="https://firebasestorage.googleapis.com/v0/b/be-informed-nz.appspot.com/o/images%2FAvatar.jpg?alt=media&token=cb12d8a0-5b38-48b0-91a0-b7e96343ca58"
+              src="https://firebasestorage.googleapis.com/v0/b/be-informed-nz.appspot.com/o/images%2Fphoto5003628988966479963.png?alt=media&token=d46c578a-33da-42ed-966d-8a09b96c9b45"
               alt="avatar"
               className="avatar-img"
             />
@@ -26,7 +26,7 @@ class Home extends Component {
                 {/*LinkedIn*/}
                 <a
                   rel="noopener noreferrer"
-                  href="https://www.linkedin.com/in/abdurakhim-ruziev-516922175"
+                  href="https://www.linkedin.com/in/abdul-ruziev-516922175"
                   target="_blank"
                 >
                   <i className="fa fa-linkedin-square" aria-hidden="true" />
